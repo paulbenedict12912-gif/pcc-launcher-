@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.PCLauncher" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#0A1128</item>
+    </style>
+</resources>
